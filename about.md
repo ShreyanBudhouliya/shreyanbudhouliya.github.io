@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-👋, My name is Shreyan Budhouliya!
+👋, I am Shreyan Budhouliya.
 
 ### More Information
 
